@@ -1,0 +1,92 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="C:\Users\zli69\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Anaconda3/Lib/site-packages/mpl_finance-0.10.0-py3.6.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/Anaconda3/Lib/site-packages/ibapi-9.73.7-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-862948645" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (backtrader)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="C:\Users\zli69\Anaconda3\envs\pycharmConda\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/envs/pycharmConda/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/pycharmConda/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/pycharmConda" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/pycharmConda/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Anaconda3/envs/pycharmConda/Lib/site-packages/ibapi-9.73.7-py3.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/Anaconda3/envs/pycharmConda/Lib/site-packages/backtrader-1.9.66.122-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1331144272" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (zipline)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\zli69\Anaconda3\envs\ziplineLive\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/envs/ziplineLive/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/ziplineLive/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/ziplineLive/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/ziplineLive" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/ziplineLive/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-241045700" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/zipline" />
+    </jdk>
+  </component>
+</application>
